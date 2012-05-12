@@ -11,10 +11,11 @@
 * Coding objectives in priority:
     1. Proven correctness
     2. Security eg., [https://www.owasp.org/ OWASP] principles
-    2. Adherence to agreed team coding style
-    3. Maintainability by unknown future coders
-    4. Flexibility through loose-coupling
-    5. See '[http://www.python.org/dev/peps/pep-0020/ The Zen of Python]' by Tim Peters
+    3. Adherence to agreed team coding style
+    4. Maintainability by unknown future coders
+    5. Flexibility through loose-coupling
+    6. See '[http://www.python.org/dev/peps/pep-0020/ The Zen of Python]' by Tim Peters
+    ...
     25. Optimisation only if required and only after profiling
 
 * Always commit working code as proven by unit tests

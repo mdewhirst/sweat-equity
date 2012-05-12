@@ -1,0 +1,52 @@
+= Guidelines for Stakeholders =
+----
+== Stakeholder responsibilities ==
+
+* Make decisions based exclusively on business value to Stakeholders
+
+* Initiate (and thereby own) change requests for new features
+
+* Be available to Developers to answer occasional questions
+
+----
+== How does the project make progress? ==
+
+* Stakeholders meet to prioritise the work backlog
+
+* The development team takes work from the top of the backlog
+
+* The dev team builds, tests and delivers a feature to the "owning" Stakeholder
+
+* The Stakeholder accepts or rejects the work
+
+* At the Stakeholder meeting accepted work is tagged for inclusion in the next release
+
+* Developers write release notes and engineer deployment of the next release
+
+Note: Exactly the same procedure applies for bugs and bugfixes except that bugs (other than minor) automatically get a higher priority than features.
+
+----
+
+== Stakeholder Checklists ==
+
+=== General ===
+1. Have I blocked out my diary for all future scheduled Stakeholder meetings
+
+2. Am I on the Stakeholder mailing list
+
+3. Have I given my contact details to the developer(s) working on my features
+
+=== Features ===
+
+1. Is this feature the smallest possible amount of stand-alone "usefulness" I can define or should I split it into two or more features
+
+2. Does this feature have a meaningful name/summary which clearly identifies it in conversations
+
+3. Can I describe it (in overview) in 50 words so it recommends itself to other Stakeholders when prioritising the backlog
+
+4. Have I raised a [ChangeRequest ticket] ready for consideration by all Stakeholders at the next scheduled opportunity
+
+5. Have I listed enough success tests so it can be accepted or rejected when done
+
+6. If I created a wiki page - have I added a link to the wiki page in the ticket '''and''' a link to the ticket in the wiki page
+

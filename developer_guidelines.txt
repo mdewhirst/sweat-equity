@@ -1,0 +1,48 @@
+= Development team guidelines =
+----
+== Developer Responsibilities ==
+
+* Discuss design issues on the dev mailing list
+
+* Write unit tests to mirror Stakeholder success tests before coding
+
+* Write unit tests to prove bugs before debugging
+
+* Coding objectives in priority:
+    1. Proven correctness
+    2. Security eg., [https://www.owasp.org/ OWASP] principles
+    2. Adherence to agreed team coding style
+    3. Maintainability by unknown future coders
+    4. Flexibility through loose-coupling
+    5. See '[http://www.python.org/dev/peps/pep-0020/ The Zen of Python]' by Tim Peters
+    25. Optimisation only if required and only after profiling
+
+* Always commit working code as proven by unit tests
+
+* Refactor ruthlessly to eliminate duplicated code
+
+* Develop the minimum functionality defined by Stakeholders
+
+* Avoid feature creep
+
+* Obtain Stakeholder acceptance when work is done
+
+* Support other Developers when asked for help
+
+* Regularly report progress
+
+* Attend Stakeholder backlog prioritisation meetings
+
+----
+
+== Rejected work and feature creep ==
+
+If a Stakeholder rejects work instead of accepting it, the work needs new success tests.
+
+Unfortunately, it was either not specified adequately in the first place or change in the business landscape has invalidated the original specification. This does happen. It provides a welcome opportunity to get things right.
+
+In both cases, the rejected work should be dropped in favour of a replacement feature with refreshed success tests - and possibly a new name. It will need to be re-prioritised at the next Stakeholder meeting.
+
+On the other hand, exercise discretion if the rejection can be turned into acceptance with a minor adjustment. Minor adjustment should not take the feature beyond the original description. Stakeholders have already prioritised the work according to that description.
+
+Feature creep is a crime.

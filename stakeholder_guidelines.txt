@@ -2,7 +2,7 @@
 ----
 == Stakeholder responsibilities ==
 
-* Make decisions based exclusively on business value to Stakeholders
+* Make decisions based exclusively on business value - to Stakeholders
 
 * Initiate (and thereby own) change requests for new features
 

@@ -1,4 +1,6 @@
-## Optionally, create a wiki page. 
+## Optionally create a wiki page
+
+(For this to make sense you need an existing ticketing system such as Trac by Edgewall Software)
 
 If the change is an enhancement request or a task requiring specification, more detail and possibly discussion will be required. If so, a wiki page may be appropriate as well.
 
@@ -6,11 +8,11 @@ If the change is an enhancement request or a task requiring specification, more 
 
   * Put that word into the search box (top right) and click Search to create the new wiki page
 
-  * Use the same summary as the title of the page 
+  * Use the same summary as the title of the page
 
-  * Refer to the ticket number 
+  * Refer to the ticket number
 
-  * Borrow from the ticket description and write the case for change 
+  * Borrow from the ticket description and write the case for change
 
   * Write the specification using success tests which can be used for acceptance testing
 

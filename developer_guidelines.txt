@@ -1,6 +1,4 @@
-= Development team guidelines =
-----
-== Developer Responsibilities ==
+## Developer Responsibilities
 
 * Discuss design issues on the dev mailing list
 
@@ -8,35 +6,37 @@
 
 * Write unit tests to prove bugs before debugging
 
-* Coding objectives in priority:
-    1. Proven correctness
-    2. Security eg., [https://www.owasp.org/ OWASP] principles
-    3. Adherence to agreed team coding style
-    4. Maintainability by unknown future coders
-    5. Flexibility through loose-coupling
-    6. See '[http://www.python.org/dev/peps/pep-0020/ The Zen of Python]' by Tim Peters
-    ...
-    25. Optimisation only if required and only after profiling
+* Observe coding objectives in this priority:
+    1. Proven correctness via unit tests
+    2. Security eg., [OWASP - www.owasp.org](https://www.owasp.org/) principles
+    3. Adherence to dev team agreed coding style
+    4. Maintainability for unknown future coders
+    5. Flexibility for ongoing change via loose-coupling between MVC layers
+    6. See also [The Zen of Python](http://www.python.org/dev/peps/pep-0020/) by Tim Peters
+    25. Optimisation only when proven necessary and then only after profiling
 
-* Always commit working code as proven by unit tests
+* Always commit working code
 
-* Refactor ruthlessly to eliminate duplicated code
+* Refactor without hesitation to eliminate duplicated code
 
-* Develop the minimum functionality defined by Stakeholders
+* Develop only the minimum functionality defined by Stakeholders
 
-* Avoid feature creep
-
-* Obtain Stakeholder acceptance when work is done
+* Obtain Stakeholder acceptance of deliverables to signal work completion
 
 * Support other Developers when asked for help
 
-* Regularly report progress
+* Regularly report progress to the dev team
 
 * Attend Stakeholder backlog prioritisation meetings
 
-----
 
-== Rejected work and feature creep ==
+***
+
+|
+
+|
+
+## Rejected work and feature creep
 
 If a Stakeholder rejects work instead of accepting it, the work needs new success tests.
 

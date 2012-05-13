@@ -1,0 +1,21 @@
+## Optionally, create a wiki page. 
+
+If the change is an enhancement request or a task requiring specification, more detail and possibly discussion will be required. If so, a wiki page may be appropriate as well.
+
+  * Invent a single CamelCase word to be the page name (eg., the page name of this page is !ChangeRequest)
+
+  * Put that word into the search box (top right) and click Search to create the new wiki page
+
+  * Use the same summary as the title of the page 
+
+  * Refer to the ticket number 
+
+  * Borrow from the ticket description and write the case for change 
+
+  * Write the specification using success tests which can be used for acceptance testing
+
+  * Edit the ticket and include a reference to the wiki page (just the page name - first dot-point above - is required)
+
+  * Email the stakeholders list using the summary title as the email subject line and announce the change request. Mention the ticket number. It will then be considered at the next Stakeholder meeting.
+
+Note: It is only necessary to work up detailed specifications in a wiki page if Stakeholders give the ticket a greater than _normal_ priority. There is no point doing too much work if development is a long way off. Things change!

@@ -31,7 +31,7 @@
 |
 
 
-## Optionally, create a wiki page.
+## Optionally create a wiki page.
 
 If the change is an enhancement request or a task requiring specification, more detail and possibly discussion will be required. If so, a wiki page may be appropriate as well.
 

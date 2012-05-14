@@ -11,7 +11,7 @@
     2. State-of-the-art security
     3. Adherence to dev team agreed coding style
     4. Maintainability for unknown future coders
-    5. Flexibility for ongoing change via loose-coupling between MVC layers
+    5. Flexibility for ongoing change via loose-coupling
     6. See also [The Zen of Python](http://www.python.org/dev/peps/pep-0020/) by Tim Peters
     25. Optimisation only when proven necessary and then only after profiling
 

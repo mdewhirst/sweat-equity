@@ -8,7 +8,7 @@
 
 * Observe coding objectives in this priority:
     1. Proven correctness via unit tests
-    2. Security eg., [OWASP - www.owasp.org](https://www.owasp.org/) principles
+    2. State-of-the-art security
     3. Adherence to dev team agreed coding style
     4. Maintainability for unknown future coders
     5. Flexibility for ongoing change via loose-coupling between MVC layers
@@ -21,11 +21,11 @@
 
 * Develop only the minimum functionality defined by Stakeholders
 
-* Obtain Stakeholder acceptance of deliverables to signal work completion
+* Obtain Stakeholder acceptance of deliverables
 
 * Support other Developers when asked for help
 
-* Regularly report progress to the dev team
+* Regularly report progress to the entire dev team
 
 * Attend Stakeholder backlog prioritisation meetings
 

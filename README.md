@@ -3,8 +3,6 @@ sweat-equity
 
 These documents are the basis of a sweat-equity project which I intend to commence in the near future. 
 
-They are easier to read if you click the Wiki link above and select the Pages tab.
-
 For my own project, while it would be great to have a co-located dev team it would seem to be difficult if not impossible to achieve. Hence for a sweat-equity project it is assumed most or even all dev team members would be working remotely.
 
 The aim of both sets of guidelines is to ease the interface between Stakeholders and Developers. Naturally it assumes these are two separate groups although in many projects such lines can be blurred.

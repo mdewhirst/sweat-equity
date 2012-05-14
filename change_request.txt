@@ -1,6 +1,37 @@
-## Optionally create a wiki page
+## Change request
 
 (For this to make sense you need an existing ticketing system such as Trac by Edgewall Software)
+
+1. Name the requested change in as few words as possible. The name will be used as a summary.
+
+2. Write a description in 50 words or fewer. This will be used in reports listing all change requests. It should be a compelling read for Stakeholders thinking about a priority for it to be developed.
+
+3. Create a New Ticket for the change
+
+  * Put the name (1 above) into the Summary field
+
+  * Put the description (2 above) into the Description field
+
+  * Choose between _defect_, _enhancement_ or _task_ as the type of change
+
+  * Optionally adjust the priority of the ticket. Choose a bug priority if it is a ticket for a defect.
+
+  * Optionally enter one or more keywords to assist searching through changes
+
+  * Add any email addresses (separated by a space) for people interested in this ticket. They will receive an email if the ticket is updated during its life.
+
+  * Enter the name of the owner. This should be you unless you have agreed otherwise with someone else.
+
+  * Click Preview and when comfortable, click Create ticket
+
+|
+
+|
+
+|
+
+
+## Optionally, create a wiki page.
 
 If the change is an enhancement request or a task requiring specification, more detail and possibly discussion will be required. If so, a wiki page may be appropriate as well.
 

@@ -23,6 +23,6 @@ miked@dewhirst.com.au
 
 May 2012
 
-PS: The .txt files are minimally marked-up in Markdown and you should have no difficulty seeing through that. The equity_agreement.odt is in open document format (written using OpenOffice.org) and also exported as a .pdf file. I believe MS Office can read .odt files.
+PS: In the Code tab (above) the .txt files are minimally marked-up in Markdown and you should have no difficulty seeing through that. The equity_agreement.odt is in open document format (written using OpenOffice.org) and also exported as a .pdf file. I believe MS Office can read .odt files.
 
 md

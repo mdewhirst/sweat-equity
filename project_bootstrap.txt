@@ -2,7 +2,7 @@ Project Bootstrap
 
 * Before executing the first equity agreement the Project must be incorporated
 
-* Owner incorporates Project owning it 100% and provides initial management
+* Owner incorporates Project and provides initial management
 
     * Project will be initially hosted by Owner
 

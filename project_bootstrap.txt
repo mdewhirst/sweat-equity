@@ -1,0 +1,76 @@
+Project Bootstrap
+
+* Before executing the first equity agreement the Project must be incorporated
+
+* Owner incorporates Project owning it 100% and provides initial management
+
+    * Project will be initially hosted by Owner
+
+    * Project shareholders will reside all around the world
+
+    * Project customers will reside all around the world
+
+    * Project will own intellectual property assets in software and design
+
+    * Project will own internet domain names
+
+    * Project will own other corporate entities in future in various jurisdictions
+
+    * Project will outsource most if not all computing facilities
+
+    * Project will contract most if not all development resources
+
+    * Project will contract most if not all management resources
+
+
+* Using the equity agreement, Project recruits a Board of Directors of:
+
+    * Chair filled by Owner
+
+    * Other seats are initially empty
+
+* Using the equity agreement, Project recruits a Management Team of:
+
+    * Public Officer / CEO
+
+    * Accountant
+
+    * Lawyer
+
+* Management team establishes:
+
+    * Books of acccounts
+
+    * Share register
+
+    * Monthly reports against business plan
+
+* Using the equity agreement, Project recruits a Development Team of:
+
+    * Graphic Designer
+
+    * Web user-interface (UI) specialist
+
+    * Web Developer
+
+    * Programmer/DBA
+
+    * Systems Engineer
+
+* Development team agrees on and establishes:
+
+    * Necessary infrastructure
+
+    * Coding style
+
+    * Communications
+
+    * Modes of operation
+
+* CEO introduces Stakeholder team (representing customers) to development team
+
+    * Development team commences work
+
+    * Stakeholders collaborate with Developers to deliver product
+
+

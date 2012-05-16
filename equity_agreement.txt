@@ -1,0 +1,170 @@
+|
+
+|
+
+|
+
+
+This agreement is between  ______________________ ______________________ a corporation  incorporated under the laws of
+
+
+______________________ whose registered office is situated at ______________________ ______________________
+
+
+______________________ ______________________ (the Owner); and ______________________ ______________________ of
+
+
+______________________ ______________________ ______________________ ______________________ (the Contractor);
+
+
+and is executed on ______________________ and which is intended to transfer equity in ______________________ ([Project](/mdewhirst/sweat-equity/wiki/Project-Bootstrap)) from Owner to the Contractor at the Agreed Rate over the Agreed Period and subject to the Risk and other conditions listed in the following points:
+
+1. Project Incorporation date is ______________________
+
+1. Agreed Rate is _____ % of equity in Project per year in lieu of a full-time salary-equivalent of $ __________ per 1900 hours of work per year.
+
+1. The same Agreed Rate applies pro rata if transferring equity on a part-time basis.
+
+1. The Agreed Rate will be adjusted up or down on each anniversary of Project Commencement to be equal to the actual equity value established by the most recent external investment in the Project.
+
+1. Agreed Period: ____  years from Project Incorporation
+
+1. Risk: It is possible that Project will fail at any time for any reason and be worth nothing. If Project fails, all participants including Contractor may elect to open-source the developed work rather than sell it in an attempt to recover costs.
+
+1. Contractor will execute a binding non-disclosure agreement which protects Project.
+
+1. Owner will maintain a Project business plan which will remain available to Contractor.
+
+1. With approval of existing equity holders external capital will be sought from time to time .
+
+1. Contractor cannot become an employee while receiving equity in lieu of salary-equivalent.
+
+1. If Project earnings permit, Contractor may become an employee with salary in lieu of further equity. Equity earned so far may be kept or traded in-house.
+
+1. Owner will post an in-house monthly Project report which nominates a notional or planned equity value. On the next business day only, all stakeholders except Owner may optionally trade their equity in-house at or above the nominated price.
+
+1. Contractor may purchase additional equity at the Agreed Rate or the most recently traded in-house equity value whichever is higher.
+
+1. If Contractor leaves Project, all acquired equity must be offered for purchase by remaining stakeholders at the Agreed Rate or at the most recent price at which equity was actually traded whichever is higher. If this occurs prior to external investment, Contractor may have to wait until such investment before receiving proceeds of this equity buy-back.  However, if Contractor leaves Project and wishes to retain acquired equity, Contractor must obtain a favourable two-thirds majority vote in a secret ballot among remaining equity holders including Owner.
+
+1. Intellectual property developed by Contractor is owned 100% by Project.
+
+1. Copyright in code developed by Contractor is owned 100% by Project.
+
+1. At the end of the Agreed Period this agreement automatically terminates but Project ownership of intellectual property and copyright persists indefinitely.
+
+1. Disagreement must be settled in-house by the people involved or if that isn't possible, disagreement must be settled via arbitration by a mutually agreed independent person.
+
+1. Ambiguities in this agreement must be interpreted in favour of Project success.
+
+1. This agreement is governed by and construed in accordance with the laws of ______________________ ______________________ and the parties hereby submit themselves to that jurisdiction.
+
+Executed by the parties on the first date mentioned above:
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+For Owner:
+
+ ____________________________________________ / ____________________________________________
+
+Name / Signature
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Witness:
+
+ ____________________________________________ / ____________________________________________
+
+Name / Signature
+
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+
+For Contractor:
+
+ ____________________________________________ / ____________________________________________
+
+Name / Signature
+
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+
+Witness:
+
+ ____________________________________________ / ____________________________________________
+
+Name / Signature

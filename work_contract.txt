@@ -1,4 +1,4 @@
-This document outlines terms of engagement as a member of the Project Development or Management Team
+This document outlines your terms of engagement in the Project as a member of the Development or Management Team
 
 
 Name of Contractor __________________________________________________________________
@@ -17,15 +17,15 @@ This contract will terminate on ___________________
 
 
 ###Hours Quoted
-1800 hours per year or fewer hours if operating part-time.
+1800 hours per year net of annual leave or fewer hours if operating part-time.
 
 
 ###Hours of Work
-A schedule of core hours of work will be negotiated by all members of the Team itself and when agreed may not be changed without renegotiation. Included in core hours will be a regular voice-enabled meeting at which you and all other team members briefly report to each other on your progress, intentions and current problems.
+A schedule of at least one hour per week of core time will be negotiated by all members of the Team and when agreed may not be changed without renegotiation. The primary purpose of core time will be a voice-enabled meeting at which you and all other team members briefly report to each other on your progress since last meeting, intentions prior to the next meeting and any current problems blocking progress.
 
 In addition to core hours, you are required to be at work during hours to which you specifically commit for purposes of communicating with any member of any Project Team including Project Stakeholders. Otherwise, you may work hours of your own choosing.
 
-For routine work other than scheduled hours, you are required to work at a sustainable pace. You should not work for lengthy periods such that tiredness or degradation of your physical reserves affects your mental acuity. You are required to take breaks from work frequently enough so that you maintain your effectiveness throughout the working day and over the long term.
+For routine work other than scheduled hours, you are required to work at a sustainable pace. It is unreasonable to work long hours such that tiredness affects your mental acuity. You are required to take breaks from work frequently enough so that you maintain your effectiveness throughout the working day and over the long term.
 
 You are not required to work on Saturdays, Sundays or official public holidays in the region in which you work.
 
@@ -40,7 +40,7 @@ As discussed and written in Project documentation from time to time
 As invoiced per your quotation
 
 ###Annual Leave
-Annual leave accumulates at the rate of 1.66 days per month. You are entitled and encouraged to schedule up to 20 days of leave per year.
+Entitlement to take annual leave accumulates at the rate of 1.66 days per month. You are entitled and encouraged to schedule up to 20 days of leave per year.
 
 Apply for annual leave to all members of your Team. You are responsible for negotiating your absence with other members of your Team so that your important workload is carried by specific members while you are absent. Similarly, you are also required to negotiate acceptance of important workload from other Team members who negotiate their leave.
 
@@ -66,13 +66,13 @@ If members of your Team find fault with your work you are responsible for resolv
 If you find fault with the work of other Team members you are responsible for revealing such fault(s) in a professional manner.
 
 ###Computer use/abuse
-It is mandatory to interface to the company in an exclusively professional manner.
+It is mandatory to interface to the Project in a professional manner.
 
-If anyone introduces any illegal, unlicensed or inappropriate content, data or hyperlinks into any communications or databases used by any Teams and you become aware of it you are required to immediately report it to the CEO.
+If in your judgement anyone introduces any unlicensed or inappropriate content, data or hyperlink into any communication, filesystem or database used by any team and you become aware of it you are required to immediately report it to the CEO.
 
 
 ###Confidentiality
-If you have not already done so, you are required to execute the company's non-disclosure agreement which protects against misuse of confidential information or sensitive information relating to customers, e.g. commercial and financial activities and information relating to intellectual property.
+If you have not already done so, you are required to execute the Project's non-disclosure agreement which protects against misuse of confidential information or sensitive information relating to customers, e.g. commercial and financial activities and information relating to intellectual property.
 
 ###Termination
 This contract terminates on the termination date mentioned above or earlier under any one of the following circumstances:
@@ -83,7 +83,7 @@ This contract terminates on the termination date mentioned above or earlier unde
 
 * Immediately in the event of unprofessional conduct if you have been previously advised by the CEO that such conduct is unprofessional.
 
-* Immediately in the event of breaching confidentialty provisions of the company non-disclosure agreement which you executed.
+* Immediately in the event of breaching confidentialty provisions of the Project's non-disclosure agreement which you executed.
 
 
 
